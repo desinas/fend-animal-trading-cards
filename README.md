@@ -1,5 +1,5 @@
 # Animal Trading Cards project
-Animal Trading Cards project of Udacity Front-end Web-developer nano-degree
+Animal Trading Cards project of Udacity Front-end Web-developer nano-degree. The text and the photo used in this project coming from Wikipedia the free encyclopedia. :bear: https://en.wikipedia.org/wiki/Giant_panda
 
 Download and unzip fend-animal-trading-cards-master.zip. Inside, you'll find card.html, styles.css, placeholder.png, and the design-prototype.png.
 Next, open card.html and replace the placeholder image and information with your favorite animal's image and information. For the image, you will want to use an image with a width of 300 pixels. If your image is larger, you can set the image's width to 300 pixels in your CSS, but be aware that your image might end up squished or distorted. Later, we’ll talk about how you can fix this problem using responsive images. Also, don't forget to change the image's alt attribute to the name of your animal. So, alt="name-of-your-animal" should be replaced with the actual name of your animal.
