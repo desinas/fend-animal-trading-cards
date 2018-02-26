@@ -37,6 +37,6 @@
 .info-place {
   margin: 12px;
   padding: 12px;
-  border: thin, solid, #bbb;
+  border: thin solid #bbb;
   text-align: justify;
 }
