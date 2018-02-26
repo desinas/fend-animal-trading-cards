@@ -2,11 +2,10 @@
 .card-backgr {
   width: 324px;
   height: 675px;
-  background-color: #DDDDDD;
-  border-style: solid;
+  padding: 10px;
+  background-color: #dddddd;
+  border: 3px solid #bbb;
   border-radius: 5px;
-  border-width: 3px;
-  border-color: #BBB;
   box-shadow: 0 12px 18px 0 rgba(0, 0, 0, 0.2);
 }
 
@@ -21,7 +20,7 @@
 }
 /*The dots are removed*/
 .list-unbullet {
-  padding: 0px;
+  padding: 0;
   list-style-type: none;
 }
 /*The labels are bolded*/
@@ -40,6 +39,6 @@
   padding: 12px;
   border-style: solid;
   border-width: thin;
-  border-color: #BBB;
+  border-color: #bbb;
   text-align: justify;
 }
